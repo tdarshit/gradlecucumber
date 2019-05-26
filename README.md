@@ -22,5 +22,6 @@ You can start out by looking at resources/features/cucumbersample.feature. You c
 
 Running the test
 ---
-gradlew test
 gradlew cucumber
+
+
