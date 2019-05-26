@@ -1,7 +1,4 @@
 # gradlecucumber
-===
-Selenium Cucumber-Junit UI Test:
-
 selenium-cucumber : Automation Testing Using Java
 ---
 
@@ -12,6 +9,10 @@ Automate your test cases with minimal coding.
 Download gradle cucumber framework
 ---
 CucumberTest: https://github.com/tdarshit/gradlecucumber
+
+Clone the git project to your local:
+---
+git clone https://github.com/tdarshit/gradlecucumber.git
 
 Writing a test
 ---
